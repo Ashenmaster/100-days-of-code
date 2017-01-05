@@ -18,3 +18,10 @@
 
 **Link to work:** [Calculator App](http://codepen.io/Hourglassdev/pen/oBNoye)
 
+---
+### Day 3: January 5, 2017
+---
+
+**Today's Progress:** Started working on pomodoro timer, laid out app and began functionality, added timer for work timer. Todo: Add logic for break timer.
+
+**Link to work:** [Calculator App](http://codepen.io/Hourglassdev/pen/oBNoye)
