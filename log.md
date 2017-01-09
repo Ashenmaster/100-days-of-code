@@ -25,3 +25,10 @@
 **Today's Progress:** Started working on pomodoro timer, laid out app and began functionality, added timer for work timer. Todo: Add logic for break timer.
 
 **Link to work:** [Calculator App](http://codepen.io/Hourglassdev/pen/oBNoye)
+---
+### Day 4: January 8, 2017
+---
+
+**Today's Progress:** Finished off pomodoro, think taking a day or two away helped me get clarity on how to resolve issues I was having, now working on Tic Tac Toe
+
+**Link to work:** [Pomodoro Timer](http://codepen.io/Hourglassdev/full/dNPqZe/)
